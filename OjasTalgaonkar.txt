@@ -1,0 +1,1 @@
+Hello , this is my text file as part of my CS 10500 GIT homework
